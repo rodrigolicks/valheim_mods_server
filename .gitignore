@@ -1,0 +1,21 @@
+MonoBleedingEdge/
+valheim_server_Data/
+start_headless_server.bat
+steamclient.dll
+steamclient64.dll
+steam_appid.txt
+tier0_s.dll
+tier0_s64.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+Valheim Dedicated Server Manual.pdf
+valheim_server.exe
+vstdlib_s.dll
+vstdlib_s64.dll
+
+
+BepInEx/LogOutput*
+BepInEx/cache/
+config/
+logs/
+steamapps/
